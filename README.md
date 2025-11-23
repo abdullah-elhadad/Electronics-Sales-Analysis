@@ -97,10 +97,12 @@ Mlxtend → Market Basket Analysis (Apriori and Association Rules)
 
 ---
 
-📁 Project Files
 
-* **[electronics-data.csv](path/to/your/Sales%20Data.csv)** → Raw dataset containing all orders and product details
-* **[electronics-analysis.ipynb](path/to/your/EDA_Visualizations.ipynb)** → Jupyter Notebook with all analysis, plots, and Market Basket Analysis
+* 📁  Project Files
+
+* **[[electronics-data.csv]([https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/Consumer%20Goods%20Data%20Analysis%20.xlsx](https://github.com/abdullah-elhadad/Electronics-Sales-Analysis/blob/main/electronics-data.csv))** → Raw dataset containing all orders and product details
+* **[electronics-analysis.ipynb]([https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/Report.docx](https://github.com/abdullah-elhadad/Electronics-Sales-Analysis/blob/main/electronics-analysis.ipynb))** → Jupyter Notebook with all analysis, plots, and Market Basket Analysis
+
 
 
 
