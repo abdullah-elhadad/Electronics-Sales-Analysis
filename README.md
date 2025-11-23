@@ -99,11 +99,8 @@ Mlxtend → Market Basket Analysis (Apriori and Association Rules)
 
 📁 Project Files
 
-electronics-data.csv → Raw dataset
-
-Python Notebooks → Scripts for data cleaning, EDA, visualizations, and MBA
-
-Charts & Plots → Output images of analysis (bar charts, line charts, heatmaps, network graphs)
+* **[electronics-data.csv](path/to/your/Sales%20Data.csv)** → Raw dataset containing all orders and product details
+* **[electronics-analysis.ipynb](path/to/your/EDA_Visualizations.ipynb)** → Jupyter Notebook with all analysis, plots, and Market Basket Analysis
 
 
 
